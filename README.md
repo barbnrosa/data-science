@@ -8,7 +8,7 @@ A Formação Data Science na Alura é um conjunto de cursos abrangentes que abor
 
 ## Estrutura do Repositório
 
-- [Curso 1](/curso1): Anotações e recursos do Curso 1.
+- [Curso 1: Data Science: análise e visualização de dados](/data-science/curso1_dados_e_visualizacoes/): Anotações e recursos do Curso 1.
 - [Curso 2](/curso2): Anotações e recursos do Curso 2.
 - ...
 
