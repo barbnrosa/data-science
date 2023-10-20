@@ -28,4 +28,4 @@ Se você encontrar algum erro nas anotações ou tiver sugestões para melhorias
 
 Se você tiver alguma dúvida ou sugestão relacionada a este projeto, sinta-se à vontade para entrar em contato comigo via [e-mail](barbara.rosa@sistemafiep.org.br) ou [LinkedIn](https://www.linkedin.com/in/barbaranicolerosa/).
 
-Obrigado por visitar este repositório e espero que estas anotações sejam úteis para os seus estudos em Data Science!
+Obrigada por visitar este repositório e espero que estas anotações sejam úteis para os seus estudos em Data Science!
